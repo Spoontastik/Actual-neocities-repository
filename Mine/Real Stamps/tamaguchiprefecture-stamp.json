@@ -1,0 +1,93 @@
+{
+  "format": "portrait",
+  "size": 0.72,
+  "edge": "rouletted",
+  "gauge": 11,
+  "holeSize": 0.3,
+  "tear": 0.22,
+  "toning": 0.26,
+  "fiber": 0.45,
+  "foxing": 0.12,
+  "wear": 0.2,
+  "watermark": 0.05,
+  "print": "offset",
+  "inkColor": "#0561FA",
+  "ink": 1,
+  "relief": 0.12,
+  "designOn": true,
+  "frame": "arched",
+  "frameColor": "#0561FA",
+  "typeface": "typewriter",
+  "ornament": "rosette",
+  "ornamentSize": 0.095,
+  "vignette": "rect",
+  "vignetteRule": true,
+  "vignetteColor": "#005CFF",
+  "feather": 0.31,
+  "countryArc": false,
+  "tablets": true,
+  "ribbon": true,
+  "country": "Japan",
+  "ground": "panel",
+  "groundColor": "#0A63FA",
+  "groundWeight": 1,
+  "groundScale": 0.5,
+  "groundAngle": 0.125,
+  "groundStrength": 0.5,
+  "groundUnderArt": true,
+  "groundClear": 0.5,
+  "inscriptions": [
+    {
+      "id": "781ohex",
+      "text": "Yamaguchi prefecture",
+      "typeface": "typewriter",
+      "color": "#0561FA",
+      "size": 0.044,
+      "anchor": "bottom-center",
+      "pos": {
+        "x": 0,
+        "y": 0
+      },
+      "rotate": 0,
+      "arc": false,
+      "caps": true,
+      "tracking": 0.12
+    }
+  ],
+  "denomination": "",
+  "denomAnchor": "bottom-left",
+  "denomPos": {
+    "x": 0,
+    "y": 0
+  },
+  "caption": "",
+  "margin": 0.06,
+  "artFit": "contain",
+  "artBleed": false,
+  "artZoom": 1.65,
+  "artPos": {
+    "x": 0,
+    "y": 0.6
+  },
+  "postmarkOn": true,
+  "postmarkStyle": "both",
+  "postmarkCity": "Tunoshima oohashi",
+  "postmarkDate": "12 JUN 2012",
+  "postmarkAngle": 0.535,
+  "postmarkPos": {
+    "x": 0.33,
+    "y": 0.6
+  },
+  "postmarkStrength": 0.1,
+  "scene": "single",
+  "peelDirection": "top-right",
+  "peelAmount": 0,
+  "curl": 0.09,
+  "shadow": 0.22,
+  "light": {
+    "x": 0.62,
+    "y": 0.72
+  },
+  "background": "transparent",
+  "exportSize": 2048
+}

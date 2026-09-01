@@ -1,0 +1,93 @@
+{
+  "format": "portrait",
+  "size": 0.72,
+  "edge": "perforated",
+  "gauge": 11.5,
+  "holeSize": 0.3,
+  "tear": 0.22,
+  "toning": 0.24,
+  "fiber": 0.45,
+  "foxing": 0.12,
+  "wear": 0.2,
+  "watermark": 0.15,
+  "print": "offset",
+  "inkColor": "#1d3f6e",
+  "ink": 1,
+  "relief": 0,
+  "designOn": true,
+  "frame": "arched",
+  "frameColor": "#2680a8",
+  "typeface": "typewriter",
+  "ornament": "none",
+  "ornamentSize": 0.11,
+  "vignette": "none",
+  "vignetteRule": true,
+  "vignetteColor": "#1d3f6e",
+  "feather": 0,
+  "countryArc": false,
+  "tablets": false,
+  "ribbon": true,
+  "country": "japan",
+  "ground": "none",
+  "groundColor": "#1d3f6e",
+  "groundWeight": 0.4,
+  "groundScale": 0.35,
+  "groundAngle": 0.125,
+  "groundStrength": 0.55,
+  "groundUnderArt": false,
+  "groundClear": 0.5,
+  "inscriptions": [
+    {
+      "id": "8wv1y6i",
+      "text": "Teshima Island",
+      "typeface": "typewriter",
+      "color": "#2680a8",
+      "size": 0.046,
+      "anchor": "bottom-center",
+      "pos": {
+        "x": 0,
+        "y": 0
+      },
+      "rotate": 0,
+      "arc": false,
+      "caps": true,
+      "tracking": 0.12
+    }
+  ],
+  "denomination": "",
+  "denomAnchor": "bottom-left",
+  "denomPos": {
+    "x": 0,
+    "y": 0
+  },
+  "caption": "",
+  "margin": 0.075,
+  "artFit": "contain",
+  "artBleed": false,
+  "artZoom": 1.43,
+  "artPos": {
+    "x": 0,
+    "y": 0.28
+  },
+  "postmarkOn": false,
+  "postmarkStyle": "both",
+  "postmarkCity": "NEW YORK NY",
+  "postmarkDate": "12 JUN 1978",
+  "postmarkAngle": 0.535,
+  "postmarkPos": {
+    "x": 0.33,
+    "y": 0.6
+  },
+  "postmarkStrength": 0.58,
+  "scene": "single",
+  "peelDirection": "top-right",
+  "peelAmount": 0,
+  "curl": 0.09,
+  "shadow": 0.22,
+  "light": {
+    "x": 0.62,
+    "y": 0.72
+  },
+  "background": "transparent",
+  "exportSize": 2048
+}
